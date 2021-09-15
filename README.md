@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 - 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/curly/)
 
 
----
 
 ## 🛠️ My favorite tools
 
@@ -84,8 +83,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Ayessur3808+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 	    
-	    ---
-
+	    
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -110,8 +108,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <!-- <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a> -->
 </p>
-	    	    
-	    ---
+	    	
 
 ### 🗄️ Databases and cloud hosting
 
@@ -128,7 +125,6 @@ Here are some ideas to get you started:
     <!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
 </p>
 
-	    ---
 	    
 ### 💻 Software and tools
 
