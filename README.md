@@ -28,13 +28,15 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Curlycoffee3808">
   <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!-- 
+ &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
   <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/>
   </a>
+-->
 </p>
 
 
@@ -44,14 +46,14 @@ Here are some ideas to get you started:
 
 
 <!-- <a href="https://github.com/DenverCoder1/Simple-View-Counter"> -->
-<a href="https://github.com/Curlycoffee3808/Simple-View-Counter">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Curlycoffee3808-profile-views"/>
+<a href="https://github.com/yessur3808/Simple-View-Counter">
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/yessur3808-profile-views"/>
 </a>
 
 
 
 
-[![GitHub Curlycoffee3808](https://img.shields.io/github/followers/Curlycoffee3808?label=follow&style=social)](https://github.com/Curlycoffee3808)
+[![GitHub Yessur3808](https://img.shields.io/github/followers/yessur3808?label=follow&style=social)](https://github.com/yessur3808)
 
 
 <h3>
@@ -59,10 +61,7 @@ Here are some ideas to get you started:
 </h3>
 
 
-- 🙆‍♂️ Check out my [Portfolio](https://Curlycoffee3808.github.io/curly/)
-
-
-
+- 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/curly/)
 
 
 
@@ -174,19 +173,19 @@ Here are some ideas to get you started:
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Curlycoffee3808's Github Stats" src="https://Curlycoffee3808-github-readme-stats.vercel.app/api/?username=Curlycoffee3808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Curlycoffee3808's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curlycoffee3808&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yessur3808's Github Stats" src="https://yessur3808-github-readme-stats.vercel.app/api/?username=yessur3808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yessur3808's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
 
 
-![Yaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curlycoffee3808&show_icons=true&theme=tokyonight)
+![Yaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=yessur3808&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Curlycoffee3808)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yessur3808)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curlycoffee3808&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -197,7 +196,7 @@ Here are some ideas to get you started:
     Made by Yaser I
 </h6>
 
-[github]: https://github.com/Kardev07
+[github]: https://github.com/yessur3808
 [vscode]: https://code.visualstudio.com/
 
 [git]: https://git-scm.com/
