@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/curly/)
 
 
-
+---
 
 ## 🛠️ My favorite tools
 
@@ -86,6 +86,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+	    
+	    ---
 
 ### 🧰 Frameworks and libraries
 
@@ -113,6 +115,9 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <!-- <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a> -->
 </p>
+	    
+	    
+	    ---
 
 ### 🗄️ Databases and cloud hosting
 
@@ -129,6 +134,8 @@ Here are some ideas to get you started:
     <!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
 </p>
 
+	    ---
+	    
 ### 💻 Software and tools
 
 <p>
@@ -142,9 +149,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <!-- <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a> -->
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-	
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/fedora-fedora-white?logo=fedora&logoColor=white"></a>
-	
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <!-- <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a> -->
@@ -152,18 +157,12 @@ Here are some ideas to get you started:
     <!-- <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a> -->
-	
-	
 	<a href="#"><img alt="Notepad ++" src="https://img.shields.io/badge/notepad-notepad%2B%2B-blue?logo=notepad++&logoColor=white"></a>
-	
-	
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-ubuntu-white?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-
 
 
 
