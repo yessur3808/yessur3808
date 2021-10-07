@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 -->
 </p>
-
+<a href="https://app.daily.dev/CurlyCoffee3808"><img src="https://api.daily.dev/devcards/2c54d4ec37c148d888260188a7d4d4aa.png?r=itv" width="400" alt="Yaser's Dev Card"/></a>
 
 <a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
     <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=55960c&labelColor=488207&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
