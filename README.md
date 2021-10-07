@@ -176,8 +176,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 	    
-	    <br />
-	    <a href="https://app.daily.dev/CurlyCoffee3808"><img src="https://api.daily.dev/devcards/2c54d4ec37c148d888260188a7d4d4aa.png?r=itv" width="400" alt="Yaser's Dev Card"/></a>
+<br /> <a href="https://app.daily.dev/CurlyCoffee3808"><img src="https://api.daily.dev/devcards/2c54d4ec37c148d888260188a7d4d4aa.png?r=itv" width="400" alt="Yaser's Dev Card"/></a>
 
 
 
