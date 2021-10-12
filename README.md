@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </h3>
 
 
-- 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/curly/)
+- 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/web00/)
 
 
 
