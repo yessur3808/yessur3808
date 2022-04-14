@@ -199,9 +199,13 @@ My name is Yaser Ibrahim
 
 <hr/>
 
-<script type="text/javascript" src="https://buymeacryptocoffee.xyz/buttonwidget.js" data-address="0x0a60e1c190295bfaf093f2df00fa9b6c05507206" data-name="crypto-coffee-button" ></script>
 
+## 🫂 How to help & support me ##
+<a href="https://www.buymeacoffee.com/curlycoffee3808" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacryptocoffee.xyz/0x0a60e1c190295bfaf093f2df00fa9b6c05507206" target="_blank"><img src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fembedbadge.c3d8c4bf5cf54409f43e2107e550bb11.svg&w=256&q=75" alt="Buy Me A Crypto Coffee" width="150" ></a>
+<a href="https://coindrop.to/curlycoffee3808" target="_blank"><img src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to me"></img></a>
 <br/><br/>
+																      
 
 <h6 align="left">
     Made by Yaser I
