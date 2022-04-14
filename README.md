@@ -40,7 +40,6 @@ My name is Yaser Ibrahim
 </a>
 
 </p>
-[![GitHub Yessur3808](https://img.shields.io/github/followers/yessur3808?label=follow&style=social)](https://github.com/yessur3808)]
 
 
 <h3>
@@ -53,7 +52,7 @@ My name is Yaser Ibrahim
 ## Say Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 	
 <a href="https://github.com/yessur3808" target="_blank">
-<img align="left"  src="https://img.shields.io/github/followers/yessur3808?label=follow&style=for-the-badge&logoColor=white" />
+<img align="left"  src="https://img.shields.io/github/followers/yessur3808?logo=github&style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaser-ibrahim-57963884" target="blank" >
