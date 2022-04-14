@@ -43,7 +43,7 @@ My name is Yaser Ibrahim
 
 
 <h3>
-    I am a Full Stack Web Developer & Software Engineer
+    I am a Full Stack Software Engineer
 </h3>
 
 
