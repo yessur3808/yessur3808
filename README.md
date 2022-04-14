@@ -48,8 +48,11 @@ My name is Yaser Ibrahim
 
 
 - 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/webb00/)
-<p align="center">
+
 ## Say Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+<p align="center">
+
 	
 <a href="https://github.com/yessur3808" target="_blank">
 <img align="left"  src="https://img.shields.io/github/followers/yessur3808?logo=github&style=for-the-badge&logoColor=white" />
