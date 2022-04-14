@@ -44,7 +44,7 @@ My name is Yaser Ibrahim
 
 <h3>
     I am a Full Stack Software Engineer
-<img src="https://raw.githubusercontent.com/yessur3808/yessur3808/main/cat.gif" width="28">
+<img src="https://raw.githubusercontent.com/yessur3808/yessur3808/main/cat.gif" width="320">
 </h3>
 
 
