@@ -30,7 +30,7 @@ My name is Yaser Ibrahim
 
 
 <a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
-    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=009EDA&labelColor=00acee&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=008FC5&labelColor=00acee&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
 </a>
 
 
