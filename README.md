@@ -30,7 +30,7 @@ My name is Yaser Ibrahim
 
 
 <a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
-    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=55960c&labelColor=488207&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
+    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=55960c&labelColor=00acee&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
 </a>
 
 
@@ -57,7 +57,6 @@ My name is Yaser Ibrahim
 <a href="https://github.com/yessur3808" target="_blank">
 <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/yaser-ibrahim-57963884" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
