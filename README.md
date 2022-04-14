@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## < Hello World! 👋 />
-# My name is Yaser Ibrahim
-
+<h2 align="center">
+< Hello World! 👋 />
+</h2>
+<h1 align="center">
+My name is Yaser Ibrahim
+</h1>
 <h3 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
