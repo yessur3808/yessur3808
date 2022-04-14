@@ -157,11 +157,10 @@ Here are some ideas to get you started:
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img alt="Yessur3808's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img alt="Yessur3808's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=404249&title_color=F85D7F&icon_color=78F866&hide=Jupyter%20Notebook" height="212px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -172,10 +171,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yessur3808)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yessur3808&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
 	    
 <br /> <a href="https://app.daily.dev/CurlyCoffee3808"><img src="https://api.daily.dev/devcards/2c54d4ec37c148d888260188a7d4d4aa.png?r=itv" width="400" alt="Yaser's Dev Card"/></a>
 
