@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://github.com/DenverCoder1/Simple-View-Counter"> -->
 <a href="https://github.com/yessur3808/Simple-View-Counter" target="_blank" rel="noopener noreferrer">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/yessur3808-profile-views"/>
+  <img alt="views" title="GitHub profile views" src="http://my-view-counter0.herokuapp.com/src/"/>
 </a>
 
 [![GitHub Yessur3808](https://img.shields.io/github/followers/yessur3808?label=follow&style=social)](https://github.com/yessur3808)
