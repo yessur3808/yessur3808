@@ -27,19 +27,7 @@ My name is Yaser Ibrahim
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
-  <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
-  </a>
-<!-- 
- &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-  <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/>
-  </a>
--->
-</p>
+
 
 <a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
     <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=55960c&labelColor=488207&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
@@ -51,6 +39,7 @@ My name is Yaser Ibrahim
   <img alt="views" title="GitHub profile views" src="http://my-view-counter0.herokuapp.com/src/"/>
 </a>
 
+</p>
 [![GitHub Yessur3808](https://img.shields.io/github/followers/yessur3808?label=follow&style=social)](https://github.com/yessur3808)
 
 
@@ -60,7 +49,7 @@ My name is Yaser Ibrahim
 
 
 - 🙆‍♂️ Check out my [Portfolio](https://yessur3808.github.io/webb00/)
-
+<p align="center">
 ## Say Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/yaser-ibrahim-57963884" target="blank" >
@@ -75,6 +64,8 @@ My name is Yaser Ibrahim
   <a href="mailto:yaser3808@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  </p>
+  ---
 
 
 ## 🛠️ My favorite tools
