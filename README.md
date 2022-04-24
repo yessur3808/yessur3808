@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 < Hello World! 👋 />
 </h2>
 <h1 align="center">
-My name is Yaser Ibrahim
+My name is Yaser 
 </h1>
 <h3 align="center">
   Welcome to my profile!
