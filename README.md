@@ -54,9 +54,7 @@ My name is Yaser
 
 ## Say Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<p align="center">
-
-	
+<p align="center">	
 <a href="https://github.com/yessur3808" target="_blank">
 <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -65,11 +63,13 @@ My name is Yaser
   </a>
 <a href="https://twitter.com/curlycoffee3808" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:yaser3808@gmail.com">
+</a>
+<a href="mailto:yaser3808@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  </p>
+</a>
+</p>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=22&duration=4000&color=008FFF&vCenter=true&multiline=true&height=120&lines=Full+Stack+Software+Engineer;Coffee+Obsessed;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
