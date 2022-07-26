@@ -69,7 +69,7 @@ My name is Yaser
 </a>
 </p>
 
-<br/>
+<br/><br/><br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&size=22&duration=4000&color=008FFF&vCenter=true&multiline=true&height=120&lines=Full+Stack+Software+Engineer;Coffee+Obsessed;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
