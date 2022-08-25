@@ -78,6 +78,15 @@ My name is Yaser
 <hr/>
 <br/>
 
+
+<a href="http://www.github.com/sharathkrml"><img src="https://activity-graph.herokuapp.com/graph?username=yessur3808&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessur3808&theme=dark&hide_border=true"/>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=yessur3808&show_icons=true&theme=tokyonight" 
+/>
+
+
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
