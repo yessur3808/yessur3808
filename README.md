@@ -40,7 +40,7 @@ My name is Yaser
 </a>
  -->
 	
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yessur3808&label=Profile%20views&color=0e75b6&style=flat" alt="yessur3808" width="240"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yessur3808&label=Profile%20views&color=0e75b6&style=flat" alt="yessur3808" width="160"/> </p>
 </p>
 
 
