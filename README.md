@@ -29,9 +29,6 @@ My name is Yaser
 <p align="center">
 
 
-<a href="https://twitter.com/Curlycoffee3808" target="_blank" rel="noopener noreferrer">
-    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Curlycoffee3808?color=008FC5&labelColor=00acee&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/>
-</a>
 
 
 <!-- <a href="https://github.com/DenverCoder1/Simple-View-Counter"> -->
@@ -56,20 +53,7 @@ My name is Yaser
 
 ## Say Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-<p align="center">	
-<a href="https://github.com/yessur3808" target="_blank">
-<img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yaser-ibrahim-57963884" target="blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="https://twitter.com/curlycoffee3808" target="blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="mailto:yaser3808@gmail.com">
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+
 
 <br/><br/><br/><br/>
 
