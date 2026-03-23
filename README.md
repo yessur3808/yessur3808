@@ -60,11 +60,11 @@
 ## 📌 Featured Projects
 
 <p>
-  <a href="https://github.com/yessur3808">
+  <a href="https://github.com/yessur3808/curie-ai" height="72px">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=curie-ai&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/yessur3808">
+  <a href="https://github.com/yessur3808/ReleaseRush" height="72px">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=ReleaseRush&theme=tokyonight" />
   </a>
 </p>
