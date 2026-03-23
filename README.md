@@ -46,13 +46,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
 </p>
 
-### Frontend
+### Web Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-### Backend
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express" />
 </p>
@@ -68,6 +64,8 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff" alt="Podman" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff" alt="VS Code" />
 </p>
@@ -78,10 +76,18 @@
 
 <p align="center">
   <a href="https://github.com/yessur3808/curie-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=curie-ai&theme=tokyonight&hide_border=true" alt="curie-ai repo card" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=curie-ai&theme=tokyonight&hide_border=true"
+      alt="curie-ai repo card"
+      height="220"
+    />
   </a>
   <a href="https://github.com/yessur3808/ReleaseRush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=ReleaseRush&theme=tokyonight&hide_border=true" alt="ReleaseRush repo card" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=ReleaseRush&theme=tokyonight&hide_border=true"
+      alt="ReleaseRush repo card"
+      height="220"
+    />
   </a>
 </p>
 
