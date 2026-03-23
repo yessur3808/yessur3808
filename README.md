@@ -23,7 +23,7 @@
 - 🌱 Currently learning and sharpening my skills across modern web technologies
 - 🔭 Working on projects that blend clean design with practical functionality
 - ☕ Powered by coffee and curiosity
-- 🌐 Check out my portfolio: [yessur3808.github.io/webb00](https://yessur3808.github.io/webb00/)
+- 🌐 Check out my [portfolio](https://yessur3808.github.io/webb00/)
 
 ---
 
