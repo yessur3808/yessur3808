@@ -113,13 +113,6 @@
 
 ---
 
-## 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://yessur3808.github.io/webb00/">🌐 Portfolio</a> •
-  <a href="https://github.com/yessur3808">💻 GitHub</a>
-</p>
-
----
 
 <p align="center">Made with ❤️ by Yaser</p>
