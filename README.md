@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://yessur3808.github.io/webb00/">Portfolio</a> •
-  <a href="https://github.com/yessur3808">GitHub</a> •
+  <a href="https://github.com/yessur3808">GitHub</a> 
+  <!-- • -->
   <!-- <a href="https://www.buymeacoffee.com/curlycoffee3808">Buy Me a Coffee</a> -->
 </p>
 
