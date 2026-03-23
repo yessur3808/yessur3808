@@ -97,17 +97,5 @@ You can also use pinned repo cards:
 
 ---
 
-## ☕ Support Me
-
-<p>
-  <a href="https://www.buymeacoffee.com/curlycoffee3808">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/curlycoffee3808">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="Ko-fi" />
-  </a>
-</p>
-
----
 
 <p align="center">Made with ❤️ by Yaser</p>
