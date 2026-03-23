@@ -108,6 +108,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessur3808&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/yessur3808" alt="Yaser's GitHub chart" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yessur3808/yessur3808/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ---
 
 ## 🌍 Connect With Me
