@@ -7,6 +7,7 @@
   <a href="https://www.buymeacoffee.com/curlycoffee3808">Buy Me a Coffee</a>
 </p>
 
+<img src="https://raw.githubusercontent.com/yessur3808/yessur3808/main/cat.gif" width="320">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+cool+things+on+the+web;Coffee+Obsessed;Always+learning+new+tech" alt="Typing SVG" />
 </p>
