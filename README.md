@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yessur3808&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yessur3808&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 ---
