@@ -59,17 +59,9 @@
 
 ## 📌 Featured Projects
 
-> Replace these with your best repositories.
-
-- 🚀 **Project One** — Short one-line description  
-- 🎨 **Project Two** — Short one-line description  
-- ⚙️ **Project Three** — Short one-line description  
-
-You can also use pinned repo cards:
-
 <p>
   <a href="https://github.com/yessur3808">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=REPO_NAME&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yessur3808&repo=curie-ai&theme=tokyonight" />
   </a>
 </p>
 
