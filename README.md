@@ -37,10 +37,10 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=fff" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=fff" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
