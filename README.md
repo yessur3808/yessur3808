@@ -113,8 +113,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yessur3808/yessur3808/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/39d353/yessur3808" alt="Yaser's GitHub contribution chart" />
 </p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/yessur3808" alt="Yaser's GitHub contribution chart" />
+</p>
+
 
 ---
 
